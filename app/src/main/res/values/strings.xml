@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebPageAsyncLoader</string>
+
+    <string name="fetching">Fetching Source Code...</string>
+    <string name="no_results">"No Results Found"</string>
+    <string name="no_search_term">No Search Term. please enter URL.</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+</resources>
+
